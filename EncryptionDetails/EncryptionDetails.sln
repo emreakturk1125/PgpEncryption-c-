@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pgp", "pgp\pgp.csproj", "{5F6EB8FB-2908-438A-A267-C92241027B6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "orrr", "orrr\orrr.csproj", "{23A59228-BEA6-482B-BD20-964DB44D0093}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FromTextToExcel", "FromTextToExcel\FromTextToExcel.csproj", "{EBCBD0FD-FF3D-406B-A92C-7F87C9F63F88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F6EB8FB-2908-438A-A267-C92241027B6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F6EB8FB-2908-438A-A267-C92241027B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F6EB8FB-2908-438A-A267-C92241027B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F6EB8FB-2908-438A-A267-C92241027B6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23A59228-BEA6-482B-BD20-964DB44D0093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23A59228-BEA6-482B-BD20-964DB44D0093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23A59228-BEA6-482B-BD20-964DB44D0093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23A59228-BEA6-482B-BD20-964DB44D0093}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBCBD0FD-FF3D-406B-A92C-7F87C9F63F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBCBD0FD-FF3D-406B-A92C-7F87C9F63F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBCBD0FD-FF3D-406B-A92C-7F87C9F63F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBCBD0FD-FF3D-406B-A92C-7F87C9F63F88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B35D3302-9D85-4E2C-A8FA-BE5E3DD61AC0}
+	EndGlobalSection
+EndGlobal
